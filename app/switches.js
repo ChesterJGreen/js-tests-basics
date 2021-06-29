@@ -19,11 +19,20 @@ function daysPosition(day, offset) {
             return '3';
             break;
         case 'Wednesday':
-            return
+            return 4;
+            break;
+        case 'Thursday':
+            return 5;
+            break;
+        case 'Friday':
+            return 6;
+            break;
+        case Saturday:
+            return 7;
+            break;
 
-        case 'Monday', true;
 
-            return '1'
+
     }
 
 }
